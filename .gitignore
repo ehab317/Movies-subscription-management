@@ -1,2 +1,7 @@
 "# Ignore files and folders" 
-"node_modules/" 
+"client/node_modules/" 
+"CinemaWS/node_modules/" 
+"SubscriptionWS/node_modules/"
+"SubscriptionWS/.env"
+"CinemaWS/.env"
+"client/.env"
